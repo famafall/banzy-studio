@@ -1,0 +1,149 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banzy {
+    font-family: 'Allura', cursive;
+}
+.bg-light {
+    background-color: rgba(0, 0, 0, 0.72)!important;
+    padding: 1%
+}
+.header-bg{
+  background-image: url(../imagenes/imagen-home.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.navbar-nav a{
+    color: rgb(255, 255, 255);
+}
+.pd {
+    padding: 20%;
+}
+
+.bg {
+    background-color: rgba(232, 214, 0, 0);
+    color: #e8d600;
+    border-radius: 0px;
+    border-color: #e8d600; 
+}
+
+.pd2 {
+    padding: 40%
+}
+
+
+
+.cuadro_negro {
+     background-color: black;
+}
+
+.pd_banzy {
+    padding: 3%
+}
+
+.banzy-text {
+    font-size: 30px;
+    color: #FFD216;
+}
+
+.pd-servicios {
+    padding: 2%;
+}
+.carousel-control-next-icon {
+    background-image: url(../imagenes/flecha-de.png);
+}
+.carousel-control-prev-icon {
+    background-image: url(../imagenes/flecha-iz.png);
+}
+.more::before{
+content: "";
+border-top:solid 1px #707070;
+display: block;
+margin: 0% 20% 1% 20%;
+}    
+.lineauno {
+content: "";
+border-top:solid 1px #707070;
+margin: 0% 0% 1% 0%;
+}
+
+.pd-tituolo {
+    padding: 0% 0% 0% 0%;
+}
+
+.bg-portafolio {
+    background-color: #FFD216;
+}
+.gallery {
+-webkit-column-count: 3;
+-moz-column-count: 3;
+column-count: 3;
+-webkit-column-width: 33%;
+-moz-column-width: 33%;
+column-width: 33%; }
+.gallery .pics {
+-webkit-transition: all 350ms ease;
+transition: all 350ms ease; }
+.gallery .animation {
+-webkit-transform: scale(1);
+-ms-transform: scale(1);
+transform: scale(1); }
+
+.br-video {
+    background-color: black;
+}
+.br-contacto {
+    background-color: #F2F2F2;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: rgba(232, 214, 0, 0);
+}
+.card {
+
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 3;
+    background-color: rgba(0,0,0,0);
+    background-clip: border-box;
+    border: 1px solid #707070;
+    
+} 
+.bg-footerdos {
+    background-color: #7B7B7B;
+}
+
+.br-footer1 {
+    background-color: black
+}
+
+.pd-footer {
+    padding: 2%;
+}
+
+.pd-iconos {
+    padding: 3% 0% 0% 60%;
+}
+
+.pd-i {
+    padding: 0% 5% 9% 0%;
+}
+
+.pd-logo {
+    padding: 0% 3%;
+}
+
+.pd-iconos2 {
+    padding: 5% 2%;
+}
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a:hover {
+    color: #FFD216;
+    text-decoration: none;
+}
